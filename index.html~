@@ -20,7 +20,7 @@
         
           <!-- <li class="download"><a class="buttons" href="https://github.com/flexgp/EC-for-Big-Learning/zipball/master">Download ZIP</a></li>
           <li class="download"><a class="buttons" href="https://github.com/flexgp/EC-for-Big-Learning/tarball/master">Download TAR</a></li> -->
-          <a class="buttons github" href="https://github.com/flexgp/EC-for-Big-Learning">View On GitHub</a>
+          <a class="buttons github" href="https://github.com/flexgp/EC-BigLearning-2015">View On GitHub</a>
         
 
       </header>
@@ -42,7 +42,7 @@ will assist to the workshop.</p>
 <br>
 <h1><a name="the-dataset" class="anchor" href="#the-dataset"><span class="octicon octicon-link"></span></a>The goal:</h1>
 
-<p>The goal of the activity is to discover features that will help us predict low blood pressure events (Acute Hypotension Episodes or AHEs) in ICU patients. 
+<p>The goal of the activity is to discover features that will help us predict Acute Hypotension Episodes or AHEs (low blood pressure events) in ICU patients. 
 
 <h4><a name="negative-examples" class="anchor" href="#negative-examples"><span class="octicon octicon-link"></span></a>Definition:</h4>
 
